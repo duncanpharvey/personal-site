@@ -23,7 +23,7 @@ const work = [
     highlights: [
       'Implemented a GitLab CI/CD pipeline to deploy AWS Lambda Functions, API Gateways, and other resources using the Serverless Application Model framework and CloudFormation',
       'Developed Python based cron jobs and APIs to automate workflows',
-      'Created dashboards to track Technical Support team KPIs using Snowflake SQL and Metabase',
+      'Created dashboards to track KPIs using Snowflake SQL and Metabase',
     ],
   },
   {
@@ -45,7 +45,7 @@ const work = [
     url: 'https://datadoghq.com',
     startDate: '2020-12-07',
     endDate: '2021-02-06',
-    summary: 'As a Solutions Engineer I provided technical customer support on all Datadog products to customers using Zendesk, Live Zendesk Chat, and Zoom. I specialized in Cloud Integrations and Containers.',
+    summary: 'As a Solutions Engineer I provided technical support on all Datadog products to customers using Zendesk, Live Zendesk Chat, and Zoom. I specialized in Cloud Integrations and Containers.',
     highlights: [
       'Collaborated with Tier 2 Support and Engineering to provide solutions for complex issues raised by customers',
       'Performed live demos of Datadog to prospective customers',
@@ -63,7 +63,7 @@ const work = [
     They aim to increase coastal access and empower people of all backgrounds through experiential and environmental education on the water.
     As a Software Developer I maintained the third party applications used to run the educational sailing programs and created custom integrations to connect them.`,
     highlights: [
-      'Synced sail registrations from Eventbrite to Airtable using their respective APIs',
+      'Synced sail registrations from Eventbrite to Airtable using their APIs',
       'Developed front end integrations for Bloomerang donation forms, Stripe payments, and Flickr photo albums',
       'Improved Lighthouse performance score for callofthesea.org by 50 points',
       'Added site wide event tagging in Google Analytics',
@@ -79,7 +79,7 @@ const work = [
     endDate: '2019-11-16',
     summary: 'As a Deckhand and Educator I educated SF Bay Area youth about sailing and environmental science.',
     highlights: [
-      'Developed and ran educational programs for students from grades 3 through 12',
+      'Developed and ran educational programs for students from grades 3 to 12',
       'Lead instructor for celestial navigation program that covered how to use the Sun, other stars, the planets, and the Moon to plot a position on a nautical chart',
       'Performed maintenance necessary to the operations of the sailing vessel',
     ],
@@ -94,7 +94,7 @@ const work = [
     They offer programs with an interconnected suite of courses designed to explore a specific ocean-related theme using a cross-disciplinary approach.
     As a Deckhand I worked with the rest of the crew to teach students how to work as a team to sail a 132 ft. brigantine rigged ship.`,
     highlights: [
-      'Taught sailing, oceanography, and celestial navigation during a voyage from Massachusetts to Grenada',
+      'Taught sailing, oceanography, and celestial navigation during a voyage from Woods Hole, MA to Grenada',
     ],
   },
   {
